@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 132" width="900" height="132">
+  <defs>
+    <linearGradient id="panelBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card 1 -->
+  <g transform="translate(0, 4)">
+    <rect width="288" height="124" rx="14" fill="url(#panelBg)" stroke="#334155" stroke-width="1.2"/>
+    <rect x="20" y="20" width="36" height="4" rx="2" fill="#38bdf8"/>
+    <text x="20" y="50" fill="#94a3b8" font-family="'Segoe UI', -apple-system, Roboto, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="0.7">ACADEMIC FOCUS</text>
+    <text x="20" y="78" fill="#f8fafc" font-family="'Segoe UI', -apple-system, Roboto, Arial, sans-serif" font-size="17" font-weight="700">AI &amp; Data Science</text>
+    <text x="20" y="102" fill="#64748b" font-family="'Segoe UI', -apple-system, Roboto, Arial, sans-serif" font-size="12.5">Lovely Professional University</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g transform="translate(306, 4)">
+    <rect width="288" height="124" rx="14" fill="url(#panelBg)" stroke="#334155" stroke-width="1.2"/>
+    <rect x="20" y="20" width="36" height="4" rx="2" fill="#818cf8"/>
+    <text x="20" y="50" fill="#94a3b8" font-family="'Segoe UI', -apple-system, Roboto, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="0.7">ENGINEERING STACK</text>
+    <text x="20" y="78" fill="#f8fafc" font-family="'Segoe UI', -apple-system, Roboto, Arial, sans-serif" font-size="17" font-weight="700">Python, ML &amp; Modern Web</text>
+    <text x="20" y="102" fill="#64748b" font-family="'Segoe UI', -apple-system, Roboto, Arial, sans-serif" font-size="12.5">Data Analysis + Responsive Apps</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g transform="translate(612, 4)">
+    <rect width="288" height="124" rx="14" fill="url(#panelBg)" stroke="#334155" stroke-width="1.2"/>
+    <rect x="20" y="20" width="36" height="4" rx="2" fill="#f97316"/>
+    <text x="20" y="50" fill="#94a3b8" font-family="'Segoe UI', -apple-system, Roboto, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="0.7">FEATURED PRODUCT</text>
+    <text x="20" y="78" fill="#f8fafc" font-family="'Segoe UI', -apple-system, Roboto, Arial, sans-serif" font-size="17" font-weight="700">CampusGrid (PWA)</text>
+    <text x="20" y="102" fill="#10b981" font-family="'Segoe UI', -apple-system, Roboto, Arial, sans-serif" font-size="12.5" font-weight="600">● Live on GitHub Pages</text>
+  </g>
+</svg>
