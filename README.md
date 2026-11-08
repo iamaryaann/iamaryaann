@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="./banner.svg" width="100%" alt="Aryan Khan — B.Tech CSE (AI & Data Science) Student at LPU & Full-Stack Web Developer" />
 </div>
 
@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/iamaryaann" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-@iamaryaann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/iamaryaann" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@iamaryaann-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/iamaryaannn3" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@iamaryaannn3-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:khanaryan1889@gmail.com">
     <img src="https://img.shields.io/badge/Email-khanaryan1889%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -95,8 +95,8 @@
   <a href="https://www.linkedin.com/in/iamaryaann" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Aryan_Khan_(@iamaryaann)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/iamaryaann" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@iamaryaann-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/iamaryaannn3" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@iamaryaannn3-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/iamaryaann" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@iamaryaann-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -107,7 +107,7 @@
 </p>
 
 - 💼 **LinkedIn:** [linkedin.com/in/iamaryaann](https://www.linkedin.com/in/iamaryaann)
-- 📸 **Instagram:** [@iamaryaann](https://www.instagram.com/iamaryaann)
+- 📸 **Instagram:** [@iamaryaannn3](https://www.instagram.com/iamaryaannn3)
 - 💻 **GitHub:** [github.com/iamaryaann](https://github.com/iamaryaann)
 - 📧 **Email:** [khanaryan1889@gmail.com](mailto:khanaryan1889@gmail.com)
 
@@ -116,3 +116,4 @@
 <div align="center">
   <sub>Engineered with ⚡ by <strong>Aryan Khan</strong> (<a href="https://github.com/iamaryaann">@iamaryaann</a>) — B.Tech CSE (AI & Data Science), Lovely Professional University</sub>
 </div>
+
