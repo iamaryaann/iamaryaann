@@ -31,7 +31,6 @@ JavaScript · Python · Node.js · HTML/CSS · Leaflet.js · Git/GitHub
 - LinkedIn: [linkedin.com/in/aryan-khan-947b76439](https://www.linkedin.com/in/aryan-khan-947b76439/)
 - GitHub: [github.com/iamaryaann](https://github.com/iamaryaann)
 - Email: [khanaryan1889@gmail.com](mailto:khanaryan1889@gmail.com)
-- Instagram: [@iamaryaannn3](https://www.instagram.com/iamaryaannn3)
 
 ---
 
